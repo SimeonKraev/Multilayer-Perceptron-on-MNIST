@@ -7,8 +7,8 @@ Number of outputs - 10 - one for each class, i.e the numbers from 1 to 10.
 
 No hidden layers.
 
-Size of dataset - 60 000.
 Training set - 50 000.
+Validation set - 10 000.
 Test set - 10 000.
 
 Implemented with Python.
